@@ -1,7 +1,9 @@
+import Desktop from './components/Desktop.component';
+
 const App = (): JSX.Element =>
   (
     <div>
-      Initial Commit
+      <Desktop />
     </div>
   );
 
