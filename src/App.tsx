@@ -1,5 +1,5 @@
-import Desktop from './components/Desktop.component';
-import Taskbar from './components/Taskbar.component';
+import Desktop from './components/Desktop';
+import Taskbar from './components/Taskbar';
 
 import './styles/reset.scss';
 
