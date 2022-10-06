@@ -3,6 +3,7 @@ import Taskbar from './components/Taskbar';
 
 import './styles/reset.scss';
 import './styles/classes.scss';
+import './styles/fonts.scss';
 
 const App = (): JSX.Element =>
   (
