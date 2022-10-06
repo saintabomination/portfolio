@@ -1,8 +1,8 @@
+import './Taskbar.styles.scss';
+
 const Taskbar = (): JSX.Element =>
   (
-    <div>
-      <h2>Taskbar</h2>
-    </div>
+    <div className="taskbar" />
   );
 
 export default Taskbar;
